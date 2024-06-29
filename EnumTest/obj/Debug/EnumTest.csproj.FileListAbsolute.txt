@@ -1,0 +1,8 @@
+D:\code\20240620Test\EnumTest\bin\Debug\EnumTest.exe.config
+D:\code\20240620Test\EnumTest\bin\Debug\EnumTest.exe
+D:\code\20240620Test\EnumTest\bin\Debug\EnumTest.pdb
+D:\code\20240620Test\EnumTest\obj\Debug\EnumTest.csproj.AssemblyReference.cache
+D:\code\20240620Test\EnumTest\obj\Debug\EnumTest.csproj.SuggestedBindingRedirects.cache
+D:\code\20240620Test\EnumTest\obj\Debug\EnumTest.csproj.CoreCompileInputs.cache
+D:\code\20240620Test\EnumTest\obj\Debug\EnumTest.exe
+D:\code\20240620Test\EnumTest\obj\Debug\EnumTest.pdb

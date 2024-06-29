@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookStoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--生成过程中发现错误:
+警告 6002: 表/视图“BookStore.dbo.Book”未定义主键。已推断出该键，并将定义创建为只读的表/视图。-->
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="NAME" />
+      <PropertyRef Name="PRICE" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PRICE" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BookStoreModelStoreContainer">
+    <EntitySet Name="Book" EntityType="Self.Book" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Book].[ID] AS [ID], 
+    [Book].[NAME] AS [NAME], 
+    [Book].[PRICE] AS [PRICE]
+    FROM [dbo].[Book] AS [Book]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

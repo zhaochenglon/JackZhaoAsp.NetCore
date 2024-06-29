@@ -1,0 +1,15 @@
+D:\code\20240620Test\BabyStroller\bin\Debug\net6.0\BabyStroller.exe
+D:\code\20240620Test\BabyStroller\bin\Debug\net6.0\BabyStroller.deps.json
+D:\code\20240620Test\BabyStroller\bin\Debug\net6.0\BabyStroller.runtimeconfig.json
+D:\code\20240620Test\BabyStroller\bin\Debug\net6.0\BabyStroller.dll
+D:\code\20240620Test\BabyStroller\bin\Debug\net6.0\BabyStroller.pdb
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.csproj.AssemblyReference.cache
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.AssemblyInfoInputs.cache
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.AssemblyInfo.cs
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.csproj.CoreCompileInputs.cache
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.dll
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\refint\BabyStroller.dll
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.pdb
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\BabyStroller.genruntimeconfig.cache
+D:\code\20240620Test\BabyStroller\obj\Debug\net6.0\ref\BabyStroller.dll

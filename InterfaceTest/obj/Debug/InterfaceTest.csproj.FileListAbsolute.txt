@@ -1,0 +1,8 @@
+D:\code\20240620Test\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+D:\code\20240620Test\InterfaceTest\bin\Debug\InterfaceTest.exe
+D:\code\20240620Test\InterfaceTest\bin\Debug\InterfaceTest.pdb
+D:\code\20240620Test\InterfaceTest\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+D:\code\20240620Test\InterfaceTest\obj\Debug\InterfaceTest.csproj.SuggestedBindingRedirects.cache
+D:\code\20240620Test\InterfaceTest\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+D:\code\20240620Test\InterfaceTest\obj\Debug\InterfaceTest.exe
+D:\code\20240620Test\InterfaceTest\obj\Debug\InterfaceTest.pdb

@@ -1,0 +1,14 @@
+D:\code\20240620Test\DelegateGeneric\bin\Debug\DelegateGeneric.exe.config
+D:\code\20240620Test\DelegateGeneric\bin\Debug\DelegateGeneric.exe
+D:\code\20240620Test\DelegateGeneric\bin\Debug\DelegateGeneric.pdb
+D:\code\20240620Test\DelegateGeneric\obj\Debug\DelegateGeneric.csproj.AssemblyReference.cache
+D:\code\20240620Test\DelegateGeneric\obj\Debug\DelegateGeneric.csproj.SuggestedBindingRedirects.cache
+D:\code\20240620Test\DelegateGeneric\obj\Debug\DelegateGeneric.csproj.CoreCompileInputs.cache
+D:\code\20240620Test\DelegateGeneric\obj\Debug\DelegateGeneric.exe
+D:\code\20240620Test\DelegateGeneric\obj\Debug\DelegateGeneric.pdb
+D:\code\20240620Test\DelegateGeneric\bin\Debug\EntityFramework.dll
+D:\code\20240620Test\DelegateGeneric\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\20240620Test\DelegateGeneric\bin\Debug\EntityFramework.xml
+D:\code\20240620Test\DelegateGeneric\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\20240620Test\DelegateGeneric\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\code\20240620Test\DelegateGeneric\obj\Debug\DelegateGeneric.csproj.CopyComplete

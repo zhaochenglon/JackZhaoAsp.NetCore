@@ -1,0 +1,8 @@
+D:\code\20240620Test\GenericTest\bin\Debug\GenericTest.exe.config
+D:\code\20240620Test\GenericTest\bin\Debug\GenericTest.exe
+D:\code\20240620Test\GenericTest\bin\Debug\GenericTest.pdb
+D:\code\20240620Test\GenericTest\obj\Debug\GenericTest.csproj.AssemblyReference.cache
+D:\code\20240620Test\GenericTest\obj\Debug\GenericTest.csproj.SuggestedBindingRedirects.cache
+D:\code\20240620Test\GenericTest\obj\Debug\GenericTest.csproj.CoreCompileInputs.cache
+D:\code\20240620Test\GenericTest\obj\Debug\GenericTest.exe
+D:\code\20240620Test\GenericTest\obj\Debug\GenericTest.pdb
